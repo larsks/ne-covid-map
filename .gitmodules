@@ -1,0 +1,3 @@
+[submodule "nyt-covid-19-data"]
+	path = nyt-covid-19-data
+	url = ssh://git@github.com/nytimes/covid-19-data
